@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @YousefAlzayat
-- 👀 I’m interested in Python, Javascript, HTML5 and CSS3
-- 🌱 I’m currently learning Javascript, HTML5 and CSS3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/yousef-alzayat-b51470219/
+- 👀 I’m interested in Python, C++, and Java.
+- 🌱 I’m currently learning C++ and Java
+- 📫 How to reach me https://www.linkedin.com/in/yousefalzayat/
 
 <!---
 YousefAlzayat/YousefAlzayat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
