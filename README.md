@@ -9,7 +9,8 @@ I've been learning to code for 4 years, i am interested in Software Engineering,
 *   🌍  I'm based in Cairo, Egypt
 *   ✉️  You can contact me at [yousefalzayat02@yahoo.com](mailto:yousefalzayat02@yahoo.com)
 *   🧠  I'm learning Java, HTML, CSS, JavaScript, and Databases
-*   🤝  I'm open to collaborating on interesting Java, Python or C++ projects<a href="https://www.github.com/YousefAlzayat" target="_blank" rel="noreferrer"><img
+*   🤝  I'm open to collaborating on interesting Java, Python or C++ projects<a href="https://www.github.com/YousefAlzayat" target="_blank" rel="noreferrer">
+  <img
                   src="https://img.shields.io/github/followers/YousefAlzayat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills 
 <p align="left">
@@ -18,7 +19,7 @@ I've been learning to code for 4 years, i am interested in Software Engineering,
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
                 <p align="left">
