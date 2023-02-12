@@ -10,7 +10,8 @@ I've been learning to code for 4 years, i am interested in Software Engineering,
 *   ✉️  You can contact me at [yousefalzayat02@yahoo.com](mailto:yousefalzayat02@yahoo.com)
 *   🧠  I'm learning Java, HTML, CSS, JavaScript, and Databases
 *   🤝  I'm open to collaborating on interesting Java, Python or C++ projects<a href="https://www.github.com/YousefAlzayat" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/YousefAlzayat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/YousefAlzayat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
