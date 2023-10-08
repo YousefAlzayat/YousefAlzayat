@@ -4,7 +4,7 @@ Hi 👋 My name is Yousef AlZayat
 I am a Software Developer and a Penetration Tester.
 ------------------------
 
-I've been learning to code for 4 years, I am interested in Cyber Security, Artificial Intelligence, Software Engineering
+I've been coding for 4 years and am interested in Cyber Security, Artificial Intelligence, Software Engineering
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [yousefalzayat02@yahoo.com](mailto:yousefalzayat02@yahoo.com)
