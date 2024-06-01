@@ -1,7 +1,7 @@
 Hi 👋 My name is Yousef AlZayat
 ======================================================================================================================================
 
-I am a Software Developer and a Penetration Tester.
+I am a Software Developer and a Reverse Engineer.
 ------------------------
 
 I've been coding for 4 years and am interested in Cyber Security, Artificial Intelligence, Software Engineering
