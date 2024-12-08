@@ -1,14 +1,14 @@
 Hi 👋 My name is Yousef AlZayat
 ======================================================================================================================================
 
-I am a Software Developer and a Reverse Engineer.
+I am a Malware Analyst and a Reverse Engineer.
 ------------------------
 
-I've been coding for 4 years and am interested in Cyber Security, Artificial Intelligence, and Software Engineering
+I've been coding for 5 years and am interested in Cyber Security, Artificial Intelligence, and Software Engineering
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [yousefalzayat02@yahoo.com](mailto:yousefalzayat02@yahoo.com)
-* 🧠  I'm learning Assembly and Malware Development.
+* 🧠  I'm currently learning Malware Development.
 * 🤝  I'm open to collaborating on cyber-security-related tools and projects...
 
 <a href="https://www.github.com/YousefAlzayat" target="_blank" rel="noreferrer"><img
