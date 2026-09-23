@@ -1,7 +1,7 @@
 Hi 👋 My name is Yousef AlZayat
 ======================================================================================================================================
 
-I am a Malware Analyst and a Reverse Engineer.
+I am a SOC Analyst and Reverse Engineer.
 ------------------------
 
 I've been coding for 6 years and am interested in Cyber Security and Artificial Intelligence
